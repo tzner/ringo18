@@ -1,0 +1,32 @@
+.example1{
+    background-color: lightgoldenrodyellow;
+}
+.text1{
+    font-family:serif;
+    font-size:medium;
+    list-style:none;
+}
+.text2{
+    font-family:serif;
+    font-size:small;
+    list-style:none
+}
+.text3{
+    font-family:serif;
+    font-size:small;
+    list-style:none
+}
+.example4{
+    color:crimson;
+    font-size:40px;
+    font-family:serif;
+    list-style:none;
+}
+.example5{
+    color:crimson;
+    font-size:10px;
+    font-family:serif;
+    padding-top:10px;
+    list-style:none;
+    float:left;
+}
